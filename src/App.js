@@ -3,6 +3,7 @@ import About from "./components/About";
 import Work from "./components/Work";
 import Contact from "./components/Contact";
 import Intro from "./components/Intro"
+import Skills from "./components/Skills"
 
 
 
@@ -16,6 +17,8 @@ class App extends Component {
 <About />
 
 <Work />
+
+<Skills />
 
 <Contact />
 
